@@ -1,0 +1,1 @@
+export {NamazPerformanceCard} from "./NamazPerformanceCard"

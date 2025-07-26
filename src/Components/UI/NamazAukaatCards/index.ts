@@ -1,0 +1,1 @@
+export {NamzazAukaatCards} from "./NamazAukaatCards"
