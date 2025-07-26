@@ -24,13 +24,7 @@ import {
 
 // Firebase config
 const firebaseConfig = {
-  apiKey: "AIzaSyAGGThSyXIqygy4RVy5ANyY09v8QhU0s8U",
-  authDomain: "nasr-ul-islam.firebaseapp.com",
-  projectId: "nasr-ul-islam",
-  storageBucket: "nasr-ul-islam.firebasestorage.app",
-  messagingSenderId: "949925523893",
-  appId: "1:949925523893:web:39366c7cd84c3f5be4a9fc",
-  measurementId: "G-MWKBBJGRW6"
+
 };
 
 // Initialize Firebase
